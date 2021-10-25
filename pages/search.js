@@ -2,10 +2,11 @@ import Head from "next/head";
 import { useRouter } from "next/router";
 import Header from "../components/Header";
 import Response from "../Response";
+import SearchResults from "../components/SearchResults";
 
 function Search({ results }) {
-  const router = useRouter();
   console.log(results);
+  const router = useRouter();
   return (
     <div>
       <Head>
@@ -40,3 +41,6 @@ export async function getServerSideProps(context) {
     props: { results: data },
   };
 }
+
+//
+//
