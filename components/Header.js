@@ -3,8 +3,8 @@ import Image from "next/image";
 import { useRouter } from "next/router";
 import { useRef } from "react";
 import { MicrophoneIcon } from "@heroicons/react/solid";
-import Avatar from "../components/Avatar";
-import HeaderOptions from "../components/HeaderOptions";
+import Avatar from "./Avatar";
+import HeaderOptions from "./HeaderOptions";
 
 function Header() {
   const router = useRouter();
