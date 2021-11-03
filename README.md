@@ -5,8 +5,8 @@ This build also includes a feature called pagination which renders 2 pages on us
 
 ## Features
 
-- [Pagination] (#search results)
-- [Responsive] (#mobile-friendly)
+- Pagination
+- Responsive
 
 ### Live Site
 
