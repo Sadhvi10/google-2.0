@@ -14,6 +14,8 @@ https://google-2-0.vercel.app/
 
 ## Screenshots
 
+![Google Thumbnail](google_thumbnail.png)
+
 ### API Link
 
 https://developers.google.com/custom-search/v1/introduction
