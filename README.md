@@ -10,7 +10,7 @@ This build also includes a feature called pagination which renders two pages on 
 
 ### Live Site
 
-https://google-2-0.vercel.app/
+https://google-clone-version2.vercel.app/
 
 ## Screenshots
 
