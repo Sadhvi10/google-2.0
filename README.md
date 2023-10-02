@@ -41,7 +41,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/Sadhvi10/hulu-clone.git
+   git clone https://github.com/Sadhvi10/google-2.0.git
 
 ### Start the development server
 
